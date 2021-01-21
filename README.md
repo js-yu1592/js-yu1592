@@ -6,8 +6,9 @@
 
 ### Hi there 👋
 
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=js-yu1592)](https://github.com/js-yu1592/github-readme-stats)
- 
+<!--
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=js-yu1592)](https://github.com/js-yu1592/github-readme-stats)
+--> 
 <!--
 **js-yu1592/js-yu1592** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
