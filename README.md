@@ -1,7 +1,7 @@
 
 
 ### Hi there 👋
-- 🌱 I’m currently learning iOS, Swift 💻 
+🌱 I’m currently learning iOS, Swift 💻 
 
 <div align=center>
   
