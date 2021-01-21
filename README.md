@@ -5,6 +5,7 @@
 </div>
 
 ### Hi there 👋
+- 🌱 I’m currently learning iOS, Swift 💻 
 
 <!--
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=js-yu1592)](https://github.com/js-yu1592/github-readme-stats)
